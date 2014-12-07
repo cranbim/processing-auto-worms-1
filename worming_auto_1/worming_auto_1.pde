@@ -1,7 +1,7 @@
 //sketch params
-boolean showSegs=false;
-boolean showJoins=false;
-boolean showFins=false;
+boolean showSegs=true;
+boolean showJoins=true;
+boolean showFins=true;
 
 //Worm params
 
